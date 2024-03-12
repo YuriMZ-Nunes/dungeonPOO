@@ -1,0 +1,12 @@
+Punch 1 1 0 0 0 0 2 false false
+Weaken 3 2 5 0 0 5 5 false false
+Heal 5 2 8 0 0 0 7 false true
+Punch 3 1 0 0 0 0 4 false false
+Sword 7 3 0 0 0 0 5 false false 
+Flame 3 5 4 2 0 2 7 false false
+Punch 3 1 0 0 0 0 3 false false
+Shot 3 5 0 0 0 0 4 false false
+Shot+ 3 5 4 0 2 2 7 false false
+Punch 10 5 0 0 0 0 8 false false
+Kick 10 5 0 0 0 0 8 false false
+Scream 4 2 0 0 0 0 6 true false
